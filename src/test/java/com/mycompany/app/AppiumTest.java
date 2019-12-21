@@ -10,6 +10,7 @@ public class AppiumTest {
 		System.out.println("NativeAtomation");
 		System.out.println("changes done 1");
 		System.out.println("changes done 4");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 	@Test
 	public void IOSApps()
@@ -17,5 +18,6 @@ public class AppiumTest {
 		System.out.println("IOSApps");
 		System.out.println("chnages done 2");
 		System.out.println("changes done 3");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 }

@@ -10,6 +10,7 @@ public class SeleniumTest {
 
 		System.out.println("BrowserAutomation");
 		System.out.println("updated selenium test 1");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 	@Test
 	public void elementUI()
@@ -17,5 +18,6 @@ public class SeleniumTest {
 
 		System.out.println("elementUI");
 		System.out.println("updated selenium test 2");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 }

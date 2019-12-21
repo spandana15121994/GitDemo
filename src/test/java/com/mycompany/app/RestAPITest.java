@@ -12,6 +12,7 @@ public class RestAPITest {
 		System.out.println("postZira");
 		System.out.println("updated 5");
 		System.out.println("update 6");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 	@Test
 	public void deleteTwitter()
@@ -20,6 +21,7 @@ public class RestAPITest {
 		System.out.println("deleteTwitter");
 		System.out.println("update 7");
 		System.out.println("update 8");
+		System.out.println("updates done by Asian developer as a branch");
 	}
 
 }
