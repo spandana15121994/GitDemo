@@ -20,4 +20,10 @@ public class AppiumTest {
 		System.out.println("changes done 3");
 		System.out.println("updates done by Asian developer as a branch");
 	}
+
+	@Test
+	public void AmericanMethod()
+	{
+		System.out.println("Added method by American developer via branch");
+	}
 }

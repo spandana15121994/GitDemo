@@ -20,4 +20,10 @@ public class SeleniumTest {
 		System.out.println("updated selenium test 2");
 		System.out.println("updates done by Asian developer as a branch");
 	}
+
+	@Test
+	public void AmericanMethod()
+	{
+		System.out.println("Added method by American developer via branch");
+	}
 }
