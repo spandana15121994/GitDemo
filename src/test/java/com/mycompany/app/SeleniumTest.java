@@ -32,4 +32,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Added method by American developer via branch");
 	}
+	@Test
+	public void TejaMethod()
+	{
+		System.out.println("Added method by American developer via branch");
+	}
 }
