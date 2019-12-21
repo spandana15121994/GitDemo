@@ -10,12 +10,16 @@ public class RestAPITest {
 	{
 
 		System.out.println("postZira");
+		System.out.println("updated 5");
+		System.out.println("update 6");
 	}
 	@Test
 	public void deleteTwitter()
 	{
 
 		System.out.println("deleteTwitter");
+		System.out.println("update 7");
+		System.out.println("update 8");
 	}
 
 }
